@@ -19,7 +19,7 @@ Este bot foi desenvolvido em C utilizando a API do Telegram. Ele responde a vár
      ```
    - Substitua `YOUR_BOT_TOKEN` pelo [token](https://t.me/BotFather) do seu bot do Telegram.
 
-2. **Instale as dependências e compilar**:
+2. **Instale as dependências e compile**:
    - Para instale as dependências e compilar o código, navegue até o diretório `./CODIGO` e digite o comando:
    ```bash
    make
